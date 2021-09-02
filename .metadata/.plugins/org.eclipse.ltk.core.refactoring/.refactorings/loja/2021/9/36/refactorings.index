@@ -1,0 +1,4 @@
+1630528183333	Rename package 'Cadastro'
+1630528602294	Rename package 'loja'
+1630613368839	Encapsulate field 'dataCadastro'
+1630613375702	Encapsulate field 'categoria'

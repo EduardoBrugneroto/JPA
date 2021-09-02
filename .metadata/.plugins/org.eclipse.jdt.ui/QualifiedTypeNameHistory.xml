@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.sun.xml.internal.stream.Entity"/>
+    <fullyQualifiedTypeName name="javax.persistence.EntityManagerFactory"/>
+    <fullyQualifiedTypeName name="javax.persistence.EntityManager"/>
+    <fullyQualifiedTypeName name="br.com.alura.util.JPAUtil"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="br.com.alura.loja.Categoria"/>
+    <fullyQualifiedTypeName name="java.math.BigDecimal"/>
+    <fullyQualifiedTypeName name="javax.persistence.Enumerated"/>
+    <fullyQualifiedTypeName name="org.hibernate.annotations.Entity"/>
+    <fullyQualifiedTypeName name="javax.persistence.Table"/>
+    <fullyQualifiedTypeName name="javax.persistence.Entity"/>
+    <fullyQualifiedTypeName name="br.com.alura.dao.CategoriaDao"/>
+</qualifiedTypeNameHistroy>
